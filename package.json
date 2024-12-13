@@ -1,0 +1,9 @@
+{
+  "name": "svg-to-csv",
+  "version": "1.0.0",
+  "description": "Utility to create CSV from SVG files",
+  "main": "create-svg-csv.js",
+  "dependencies": {
+    "csv-writer": "^1.6.0"
+  }
+}
